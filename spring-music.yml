@@ -1,0 +1,7 @@
+team: dreamworks-devs
+source:
+  git:
+    url: https://github.com/warroyo/spring-music
+    revision: master
+image:
+  tag: index.docker.io/warroyo90/spring-music

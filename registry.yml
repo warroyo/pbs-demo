@@ -1,0 +1,4 @@
+team: dreamworks-devs
+registry: index.docker.io
+username: user1
+password: <secret> 
