@@ -13,7 +13,7 @@ pe "clear"
 pe "pb login"
 
 pe "clear"
-p "pb team create dreamworks-devs"
+p "pb team create java-devs"
 
 pe "clear"
 pe "cat registry.yml"

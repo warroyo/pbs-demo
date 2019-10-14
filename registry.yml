@@ -1,4 +1,4 @@
-team: dreamworks-devs
+team: java-devs
 registry: index.docker.io
 username: user1
 password: <secret> 
